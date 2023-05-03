@@ -35,6 +35,3 @@ const kinesisFirehose = new KinesisFirehoseQuicksightStack(
 		logStreamName: initialStack.logStreamName.value,
 	}
 );
-
-// Before sending any data remove the dummmy data s
-// 11:57 - others --> 11:59 in S3 and then imediately in QS

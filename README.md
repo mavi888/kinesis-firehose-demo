@@ -16,6 +16,10 @@ This demo is part of a video posted in FooBar Serverless channel. You can check 
 
 Important: this application uses various AWS services and there are costs associated with these services after the Free Tier usage - please see the AWS Pricing page for details. You are responsible for any AWS costs incurred. No warranty is implied in this example.
 
+The application you will end up after following this instructions is this:
+
+![](images/architecture.png)
+
 ## Requirements
 
 - AWS CLI already configured with Administrator permission
