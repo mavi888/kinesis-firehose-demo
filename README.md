@@ -137,4 +137,4 @@ And delete the datasource and visualization in quicksight.
 
 ## Links related to this code
 
-- Video with more details:
+- Video with more details: [Serverless analytics playlist](https://www.youtube.com/playlist?list=PLGyRwGktEFqf-jHfORF9_X51r4UcFHOEK)
